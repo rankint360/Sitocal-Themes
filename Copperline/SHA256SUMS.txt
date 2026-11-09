@@ -1,0 +1,2 @@
+9ec1b7efd965149d4ef29047727c8cfe869c11f903afe3d108d5eb02a392a05d  copperline-netlify-deploy-v1.0.zip
+6f988de3a78f055a5242413a769bddc19629725cfd77fa42ea0205586910daf1  copperline-source-v1.0.zip

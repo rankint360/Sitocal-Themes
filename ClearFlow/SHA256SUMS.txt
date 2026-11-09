@@ -1,0 +1,2 @@
+a99bd580160ef517cbd99a2b8f26f1822c5572754269c68638cf05aa9145ef9e  clearflow-netlify-deploy-v1.2.zip
+299c400891f9247290e8e2f34bf1aae3920fb7899a3afe570e3205ccaa3e376f  clearflow-source-v1.2.zip
