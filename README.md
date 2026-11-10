@@ -7,6 +7,8 @@ Shared theme library for Sitocal. Each theme has its own folder, versioned Netli
 | ClearFlow | 1.2.0 | Forest/ivory drain-service design | [ClearFlow](ClearFlow/) |
 | Drainora | 1.0.0 | Faithful dark-purple clone of the original template | [Drainora](Drainora/) |
 | Copperline | 1.0.0 | Navy/copper, technician photography, inspection-first layout | [Copperline](Copperline/) |
+| Pestward | 1.0.0 | Faithful NYC rodent-control clone | [Pestward](Pestward/) |
+| Pestward Fieldworks | 1.0.0 | Forest palette with a building sketch and entry-point guide | [Pestward Fieldworks](Pestward-Fieldworks/) |
 
 ## Deploy a theme
 
