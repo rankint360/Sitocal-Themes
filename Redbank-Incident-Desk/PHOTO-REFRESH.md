@@ -1,6 +1,6 @@
 # Redbank Incident Desk
 
-Version 1.1.0 adds credited Pexels photos on 15 pages. The photos illustrate the service or property type.
+Version 1.2.0 adds 41 photo placements across 20 pages. Public pages omit photo credits. Source information remains in the asset inventory.
 
 ## Deploy
 

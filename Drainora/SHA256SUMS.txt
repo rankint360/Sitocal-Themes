@@ -1,2 +1,2 @@
-0caf68deaf588d400d7989950280365c124d6005647865fdcff4c37067befefc  drainora-netlify-deploy-v1.1.zip
-614d1b8f1d06ccd1fa99b7f7ce1801bf8c64f9f9c488d647e1e9430801268467  drainora-source-v1.1.zip
+8fb7ea8fb2ee7ba91f2b9b8d25672835384befb40d605472dc1370e0eb19ca6c  drainora-netlify-deploy-v1.2.zip
+52b47ee287b7bdc2c7c70c0caf705e381bf41c5e3eff6818aeebf429bbf9f832  drainora-source-v1.2.zip

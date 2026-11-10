@@ -1,6 +1,6 @@
 # ClearFlow
 
-Version 1.3.0 adds credited Pexels photos on 18 pages. The photos illustrate the service or property type.
+Version 1.4.0 adds 56 photo placements across 26 pages. Public pages omit photo credits. Source information remains in the asset inventory.
 
 ## Deploy
 

@@ -1,2 +1,2 @@
-b50eeaf811d603d34b5687b5065d6cbd0b9a22bf2878c615e7d22f895bca9e1a  pestward-netlify-deploy-v1.1.zip
-12945325283390a0f0b340deb6fea0669efdc18bd9618ffeac2176d28e3925fd  pestward-source-v1.1.zip
+37f708221521ea28f80a4998711eb56f36737c323d3277b480ca357160390ffe  pestward-netlify-deploy-v1.2.zip
+38aaf00dda22277541dec360feb4d1fda96e976d3800c48cd8268ef60ef66ea1  pestward-source-v1.2.zip

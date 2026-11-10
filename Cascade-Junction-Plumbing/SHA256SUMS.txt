@@ -1,2 +1,2 @@
-928e43e4c0970da02e2b643d5f1aa38e6d93f08894387867f0325d012fd8d1a1  cascade-junction-plumbing-netlify-deploy-v1.1.zip
-0f4690886ee379839d169489086c7ff0e6aa12175449980010da6c7bf26b7f40  cascade-junction-plumbing-source-v1.1.zip
+4e8e2679fb870c3f24c89610c4c2abc8ac5e18d2c5f9f8fe516df1e51731d796  cascade-junction-plumbing-netlify-deploy-v1.2.zip
+2f95b821f485feed245023c47df84b55d15c75e4d9887f4ccf4f5eb8cc25d691  cascade-junction-plumbing-source-v1.2.zip

@@ -1,2 +1,2 @@
-8a4b0ea02de4b1d8c1edfc87314a6c6f12793d3279f1a7640995ee2c53eb63d1  canopy-harbor-netlify-deploy-v1.1.zip
-67a18c294a010c51e4b31329886d92d1f201f143c89f1f267af4983ec2984164  canopy-harbor-source-v1.1.zip
+dc0736d9f6cd197b6dc0727cf6a0343b4aacc425d145fb92d017e265fa2dde46  canopy-harbor-netlify-deploy-v1.2.zip
+3d1112265f04aa5c1571a2d8c76eed18a502870a22549739a34a7248655f22d5  canopy-harbor-source-v1.2.zip

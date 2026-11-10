@@ -1,2 +1,2 @@
-10d9e85df4ceb474c7d1a10ac2768201972e48c81d816c5da414aed1c99f859b  duneshield-courtyard-netlify-deploy-v1.1.zip
-c4cc6198bc4fa109bedaff60c595d1a739d4a7e42e750b02d4a4eadd29e565e5  duneshield-courtyard-source-v1.1.zip
+b734f3998a923c91c06b7dadf31b7171d8e4e04fbe4f95f01bb0d3accbf10513  duneshield-courtyard-netlify-deploy-v1.2.zip
+c46dd357ef7becf6f9a8966bbc9521b6d892a329cb5e33c45356d5b4cf8c059f  duneshield-courtyard-source-v1.2.zip

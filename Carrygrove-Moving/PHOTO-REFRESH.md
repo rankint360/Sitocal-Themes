@@ -1,6 +1,6 @@
 # Carrygrove Moving
 
-Version 1.1.0 adds credited Pexels photos on 15 pages. The photos illustrate the service or property type.
+Version 1.2.0 adds 45 photo placements across 22 pages. Public pages omit photo credits. Source information remains in the asset inventory.
 
 ## Deploy
 

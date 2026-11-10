@@ -1,2 +1,2 @@
-95d2c428caec58ce2edc3578a19b7e64be92ada07cb75422d6d76a6396e8d455  tidewell-service-desk-netlify-deploy-v1.1.zip
-ffa5f464a5a9bed0a61d0995b454b6b5f82032feb4212d9d576f54c85fcccecd  tidewell-service-desk-source-v1.1.zip
+e6e2dec2f01c759bb334697778a24debd7149da293799e02becd111978c9f502  tidewell-service-desk-netlify-deploy-v1.2.zip
+90a55f121b118a90e66b9a2f02b73b9ee8f75192e814f04bd1edd49cf9593034  tidewell-service-desk-source-v1.2.zip

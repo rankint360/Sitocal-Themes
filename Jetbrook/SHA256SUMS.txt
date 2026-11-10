@@ -1,2 +1,2 @@
-57e78fb545793bd9a1106884177360f8a9efa8cd668b9f6fb20c701a81753bb6  jetbrook-netlify-deploy-v1.1.zip
-53a65898e80a19a59deeb2b1bf9a92da1a84d87f9dfe82144b6353863cec5b46  jetbrook-source-v1.1.zip
+45232d6ce94ff557bba02abeecbc1dbfb103c7789c2a93a5531864ab361df582  jetbrook-netlify-deploy-v1.2.zip
+2100d6945c92110189371398c030d6f0b5c1044127ba402cd8b13231c4638ef8  jetbrook-source-v1.2.zip

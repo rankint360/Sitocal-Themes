@@ -1,2 +1,2 @@
-6684a83e86b520d264f4cba4578f8b635ce467e18055da25a9348f908daaa7c6  rillstead-restoration-netlify-deploy-v1.1.zip
-04c7e4496436dc67772066da49f2b911696e885f2616c04b553afa842a4189fb  rillstead-restoration-source-v1.1.zip
+6adfc24c66d99b291594bbc99686e97fda133e0308de0bc35029071c11bf8d5d  rillstead-restoration-netlify-deploy-v1.2.zip
+629ac7167402dd34c18bac952c5d09e108c9b4c72d8a0df6b9e2530ad5758587  rillstead-restoration-source-v1.2.zip

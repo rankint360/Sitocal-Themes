@@ -1,2 +1,2 @@
-03410aa93dcba2dcb0316a33168fb7f7cdc868e462a2ea197dce9e2be0d4335d  carrygrove-roomplan-netlify-deploy-v1.1.zip
-31101cdde05ea6a94a764da27750b1df0a4385fd980c7bb8fee8002d12be7d0c  carrygrove-roomplan-source-v1.1.zip
+eed8f281ff7b9772d16465a52bc979ff0d88b1d0d6e7cc754a7d3b2508aab045  carrygrove-roomplan-netlify-deploy-v1.2.zip
+c1aae4ecb3cd295c9f7610071de20e402f57844e00321dff3ed9b3ebae9938d4  carrygrove-roomplan-source-v1.2.zip
