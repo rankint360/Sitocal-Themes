@@ -17,6 +17,14 @@ Shared theme library for Sitocal. Each theme has its own folder, versioned Netli
 | Tidewell Service Desk | 1.0.0 | Plum and sand plumbing service guide | [Tidewell Service Desk](Tidewell-Service-Desk/) |
 | SlabTrace | 1.0.0 | Baltimore slab-leak reference clone | [SlabTrace](SlabTrace/) |
 | SlabTrace Survey | 1.0.0 | Slate and amber leak inspection guide | [SlabTrace Survey](SlabTrace-Survey/) |
+| Jetbrook | 1.0.0 | Jupiter drain-cleaning reference clone | [Jetbrook](Jetbrook/) |
+| Jetbrook Linecheck | 1.0.0 | Drain diagnostics with a pipe-route sketch | [Jetbrook Linecheck](Jetbrook-Linecheck/) |
+| DuneShield | 1.0.0 | Naples household pest-control reference clone | [DuneShield](DuneShield/) |
+| DuneShield Courtyard | 1.0.0 | Olive and sand household inspection guide | [DuneShield Courtyard](DuneShield-Courtyard/) |
+| CivicBastion | 1.0.0 | Los Angeles pest-management reference clone | [CivicBastion](CivicBastion/) |
+| CivicBastion Routebook | 1.0.0 | Indigo visit-planning and access guide | [CivicBastion Routebook](CivicBastion-Routebook/) |
+| Palmetto Ledger | 1.0.0 | Naples property pest-control reference clone | [Palmetto Ledger](Palmetto-Ledger/) |
+| Palmetto Ledger Steward | 1.0.0 | Plum property prevention and recurring checks | [Palmetto Ledger Steward](Palmetto-Ledger-Steward/) |
 
 ## Deploy a theme
 
