@@ -9,6 +9,14 @@ Shared theme library for Sitocal. Each theme has its own folder, versioned Netli
 | Copperline | 1.0.0 | Navy/copper, technician photography, inspection-first layout | [Copperline](Copperline/) |
 | Pestward | 1.0.0 | Faithful NYC rodent-control clone | [Pestward](Pestward/) |
 | Pestward Fieldworks | 1.0.0 | Forest palette with a building sketch and entry-point guide | [Pestward Fieldworks](Pestward-Fieldworks/) |
+| Trackstead | 1.0.0 | Pueblo garage-door reference clone | [Trackstead](Trackstead/) |
+| Trackstead Forge | 1.0.0 | Charcoal and copper garage-door troubleshooting | [Trackstead Forge](Trackstead-Forge/) |
+| Canopy Harbor | 1.0.0 | Miami general pest-control reference clone | [Canopy Harbor](Canopy-Harbor/) |
+| Canopy Harbor Habitat | 1.0.0 | Teal and citrus pest inspection guide | [Canopy Harbor Habitat](Canopy-Harbor-Habitat/) |
+| Tidewell Plumbing | 1.0.0 | Naples plumbing reference clone | [Tidewell Plumbing](Tidewell-Plumbing/) |
+| Tidewell Service Desk | 1.0.0 | Plum and sand plumbing service guide | [Tidewell Service Desk](Tidewell-Service-Desk/) |
+| SlabTrace | 1.0.0 | Baltimore slab-leak reference clone | [SlabTrace](SlabTrace/) |
+| SlabTrace Survey | 1.0.0 | Slate and amber leak inspection guide | [SlabTrace Survey](SlabTrace-Survey/) |
 
 ## Deploy a theme
 
