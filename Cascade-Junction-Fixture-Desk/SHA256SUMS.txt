@@ -1,0 +1,2 @@
+92800dbbbe6857885c410fde6f65b3d22177dfd73e07ecf77bfb6a9896185f81  cascade-junction-fixture-desk-netlify-deploy-v1.0.zip
+a8f1d0822678edba41b44cbe68dfb2db76638e826fdd0f7e74cb8bdc8d5d499e  cascade-junction-fixture-desk-source-v1.0.zip

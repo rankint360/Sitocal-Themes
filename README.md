@@ -25,6 +25,14 @@ Shared theme library for Sitocal. Each theme has its own folder, versioned Netli
 | CivicBastion Routebook | 1.0.0 | Indigo visit-planning and access guide | [CivicBastion Routebook](CivicBastion-Routebook/) |
 | Palmetto Ledger | 1.0.0 | Naples property pest-control reference clone | [Palmetto Ledger](Palmetto-Ledger/) |
 | Palmetto Ledger Steward | 1.0.0 | Plum property prevention and recurring checks | [Palmetto Ledger Steward](Palmetto-Ledger-Steward/) |
+| Carrygrove Moving | 1.0.0 | Austin moving reference clone | [Carrygrove Moving](Carrygrove-Moving/) |
+| Carrygrove Roomplan | 1.0.0 | Warm neutrals with room inventory and loading guide | [Carrygrove Roomplan](Carrygrove-Roomplan/) |
+| Rillstead Restoration | 1.0.0 | Springfield water damage reference clone | [Rillstead Restoration](Rillstead-Restoration/) |
+| Rillstead Drybook | 1.0.0 | Teal drying record and room assessment guide | [Rillstead Drybook](Rillstead-Drybook/) |
+| Redbank Recovery | 1.0.0 | Austin water damage reference clone | [Redbank Recovery](Redbank-Recovery/) |
+| Redbank Incident Desk | 1.0.0 | Burgundy incident timeline and crew handoff | [Redbank Incident Desk](Redbank-Incident-Desk/) |
+| Cascade Junction Plumbing | 1.0.0 | Seattle plumbing reference clone | [Cascade Junction Plumbing](Cascade-Junction-Plumbing/) |
+| Cascade Junction Fixture Desk | 1.0.0 | Slate and brass with a fixture symptom guide | [Cascade Junction Fixture Desk](Cascade-Junction-Fixture-Desk/) |
 
 ## Deploy a theme
 
