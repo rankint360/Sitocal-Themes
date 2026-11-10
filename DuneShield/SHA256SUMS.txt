@@ -1,2 +1,2 @@
-76c76436248c92da68c66cff94e7c5a99343d6239584d2046441d12c20d9e896  duneshield-netlify-deploy-v1.2.zip
-2dbdb4cd80c8685b10c6e79f1af42351ec2c8ca5f10f7c643042240927e7c287  duneshield-source-v1.2.zip
+363f5565eee4dc4f00a87072a32deab465e89aa5f024eece39b8275ebe3e1ced  duneshield-netlify-deploy-v1.3.zip
+0935a0b0cad278bd0a09c9b81270b1bdc2633a667e4fe5868fdbba086708517b  duneshield-source-v1.3.zip

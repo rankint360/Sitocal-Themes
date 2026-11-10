@@ -1,2 +1,2 @@
-4ebb33364ca43ad9e457bd123ffae95f99779ab444364cece3cf42cbafc171b2  trackstead-forge-netlify-deploy-v1.2.zip
-1c3726aa5140199e65d9583ea7b15ff03983a54fe110ed1f458d498f9ec2d2f8  trackstead-forge-source-v1.2.zip
+a94022fbc8b7639baac9ae688a3eb22939e94478559742366a37d08385543133  trackstead-forge-netlify-deploy-v1.3.zip
+62108314e3c4743a8bb44b9ec2e747fac6d1aee4eb584aee7bf329e58f8fadce  trackstead-forge-source-v1.3.zip

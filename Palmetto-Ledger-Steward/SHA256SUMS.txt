@@ -1,2 +1,2 @@
-1cfaf2eaf8d5279cc328ed11b1b57d6be4334b23bb78ed5c7a634c4959e28d6d  palmetto-ledger-steward-netlify-deploy-v1.2.zip
-9b7820e92f297cdb51279f2023680a03978a4ebec25bfcafe7c805be836db743  palmetto-ledger-steward-source-v1.2.zip
+d5aec10aee59c25a1ba58efa286f12e7198b927b88e79cecdba1327e939a3fa4  palmetto-ledger-steward-netlify-deploy-v1.3.zip
+a5e1e0474688483ae4ff0d3b343618461680d3eb1ec5aaa1ac4db206faa16f0d  palmetto-ledger-steward-source-v1.3.zip

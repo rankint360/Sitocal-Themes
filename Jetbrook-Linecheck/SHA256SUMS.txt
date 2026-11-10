@@ -1,2 +1,2 @@
-47dddaaa8da9a45f82ba81517e23dc39cb8f6ed44b75333e3f38a457927d7645  jetbrook-linecheck-netlify-deploy-v1.2.zip
-f4d8bc16464c9f9b6c6c10a81fc37d05f98334d4e63bbfdd9b0eb95f55e9aee7  jetbrook-linecheck-source-v1.2.zip
+157778c969010494bc17e43793cc0765dbe8c3f4ade3e47ec7f4e6052beec642  jetbrook-linecheck-netlify-deploy-v1.3.zip
+3ae86fd82170f3cd3ff0062e5aaa31b93c970745bc3729f2469c04e3f65378cb  jetbrook-linecheck-source-v1.3.zip

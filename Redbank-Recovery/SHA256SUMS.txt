@@ -1,2 +1,2 @@
-115f09de48ec3c8571b14ea0ce5bb86dd84f7a42a362f3fccd5999ccf3d47783  redbank-recovery-netlify-deploy-v1.2.zip
-2bb969b4e4c8bbeead9a3399dc75b9ec526228b4551b10eb399c8730f233f9f1  redbank-recovery-source-v1.2.zip
+e3ca3e7879fe11a332868e4c819bf2c1e4910e657692ea758d70d993387c90ae  redbank-recovery-netlify-deploy-v1.3.zip
+c6679e71a07c9b93dd2c2cb89ef55c69e4111bb972700b97908c3aba8e11bc06  redbank-recovery-source-v1.3.zip

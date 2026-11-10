@@ -1,6 +1,6 @@
 # Rillstead Restoration
 
-Version 1.2.0 adds 45 photo placements across 22 pages. Public pages omit photo credits. Source information remains in the asset inventory.
+Version 1.3.0 updates photo framing and motion across 22 pages. Public pages omit photo credits. Source information remains in the asset inventory.
 
 ## Deploy
 

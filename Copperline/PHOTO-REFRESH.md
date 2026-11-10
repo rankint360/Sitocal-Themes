@@ -1,6 +1,6 @@
 # Copperline
 
-Version 1.2.0 adds 47 photo placements across 23 pages. Public pages omit photo credits. Source information remains in the asset inventory.
+Version 1.3.0 updates photo framing and motion across 23 pages. Public pages omit photo credits. Source information remains in the asset inventory.
 
 ## Deploy
 

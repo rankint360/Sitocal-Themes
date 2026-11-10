@@ -1,2 +1,2 @@
-b536834f2632f2ca06e0f5c51a0799d12121f043cc4ad96e545ca72eba4d1899  civicbastion-netlify-deploy-v1.2.zip
-e0657fa3469c729922d60f53647ddd4a5e819922a4b0f5a00369f635f196eb57  civicbastion-source-v1.2.zip
+37ee40c8d4b18b0fc9a50b85d108378d4ebe3921c54e00234ccb5780e0d3b67c  civicbastion-netlify-deploy-v1.3.zip
+f3139eeb5af82d18d9d984943e13127cecaa9e2ece40a26aa90cee6a63df9683  civicbastion-source-v1.3.zip

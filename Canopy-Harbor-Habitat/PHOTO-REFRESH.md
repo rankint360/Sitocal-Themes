@@ -1,6 +1,6 @@
 # Canopy Harbor Habitat
 
-Version 1.2.0 adds 43 photo placements across 21 pages. Public pages omit photo credits. Source information remains in the asset inventory.
+Version 1.3.0 updates photo framing and motion across 21 pages. Public pages omit photo credits. Source information remains in the asset inventory.
 
 ## Deploy
 

@@ -1,2 +1,2 @@
-607e41011021343e21075312dda746471410dffdf6713eabf2776f512eaf34ba  rillstead-drybook-netlify-deploy-v1.2.zip
-92bf1a7bf678cc01552100b72d58b0ec4705c67d0b241401bba2d7ea94c98fc4  rillstead-drybook-source-v1.2.zip
+a9e1fd90b7ad08c1f972e66602c875f7719fef27accd397eefb7c49a5c01f592  rillstead-drybook-netlify-deploy-v1.3.zip
+59ec52f00d3c87b098339b5fbf7d3da951927af10db38fae71104873ef005cd2  rillstead-drybook-source-v1.3.zip

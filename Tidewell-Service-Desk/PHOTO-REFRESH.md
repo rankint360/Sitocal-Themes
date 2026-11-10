@@ -1,6 +1,6 @@
 # Tidewell Service Desk
 
-Version 1.2.0 adds 65 photo placements across 32 pages. Public pages omit photo credits. Source information remains in the asset inventory.
+Version 1.3.0 updates photo framing and motion across 32 pages. Public pages omit photo credits. Source information remains in the asset inventory.
 
 ## Deploy
 

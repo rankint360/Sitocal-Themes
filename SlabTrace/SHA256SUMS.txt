@@ -1,2 +1,2 @@
-b2c7faee8b9b7f4338b98d9f61d92bba5c9eb4f9af9bebaccd8aebb3496361a0  slabtrace-netlify-deploy-v1.2.zip
-22de6e8722b8d13da60e954760a7acb80c5cf845a556030c1be100a1f19a9b34  slabtrace-source-v1.2.zip
+0c51f15d206a275a8c958a1dd00c9211d0f37ed5e8fcab9c80c77bec2d102854  slabtrace-netlify-deploy-v1.3.zip
+e3877763f5c6c817993409e3b649bf873e70fec15e64e0ff05fda3a2447d781e  slabtrace-source-v1.3.zip

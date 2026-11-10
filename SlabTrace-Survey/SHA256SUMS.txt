@@ -1,2 +1,2 @@
-9fd32067afe12008fee11d936cd504459de329986bf48dc499f8d556a78d8b87  slabtrace-survey-netlify-deploy-v1.2.zip
-48ed6ba6491775497ae1a8309350bb342917c95344d8528439235f88263c1f1b  slabtrace-survey-source-v1.2.zip
+4ca3822e2c0cc8d8c3b0bf60366735370bed32313d25b46626bef024a0f8b96d  slabtrace-survey-netlify-deploy-v1.3.zip
+de210472de2cdd57efb505b658dfc58c1ddeb79c475eb08e0e293beec7874378  slabtrace-survey-source-v1.3.zip

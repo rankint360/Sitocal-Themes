@@ -1,6 +1,6 @@
 # CivicBastion
 
-Version 1.2.0 adds 37 photo placements across 18 pages. Public pages omit photo credits. Source information remains in the asset inventory.
+Version 1.3.0 updates photo framing and motion across 18 pages. Public pages omit photo credits. Source information remains in the asset inventory.
 
 ## Deploy
 

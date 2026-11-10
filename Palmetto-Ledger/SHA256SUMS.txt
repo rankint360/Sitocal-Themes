@@ -1,2 +1,2 @@
-47417dc086c94001be13f06a66c22ea5ca4908b35ef3860b6a88e511023aba08  palmetto-ledger-netlify-deploy-v1.2.zip
-5300054f62f9d2e15da4e081e430d9e063645bb95870f620dede3a961f75e729  palmetto-ledger-source-v1.2.zip
+d635498f40fabdb087e1daf0eecd76a2cf6f3860996a3bbc514c6843e645228d  palmetto-ledger-netlify-deploy-v1.3.zip
+40acff32972efaa110ed0d1d97d6a65d18a6dc744c3cb9158a36f130ce4a81cc  palmetto-ledger-source-v1.3.zip

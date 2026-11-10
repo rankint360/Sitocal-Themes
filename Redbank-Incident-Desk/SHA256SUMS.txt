@@ -1,2 +1,2 @@
-391c3e9fda3a1cecfc39752ed75951165811825117fee5ffe5779f452b2f51c2  redbank-incident-desk-netlify-deploy-v1.2.zip
-9c271a6f5a960589f03aa144ae76d469dfd688fddfe729dc2c948ada9f3fa62f  redbank-incident-desk-source-v1.2.zip
+db84b2fed207ca68d3c24dd7c7aa61369ae303775445179266bf65bf2ff4a492  redbank-incident-desk-netlify-deploy-v1.3.zip
+4093ab9bd4114741e15d6b128e2f5c70fccf0dbcf15d42c97f12df33c1cbd3e4  redbank-incident-desk-source-v1.3.zip

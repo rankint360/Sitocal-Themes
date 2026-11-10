@@ -1,6 +1,6 @@
 # ClearFlow
 
-Version 1.4.0 adds 56 photo placements across 26 pages. Public pages omit photo credits. Source information remains in the asset inventory.
+Version 1.5.0 updates photo framing and motion across 26 pages. Public pages omit photo credits. Source information remains in the asset inventory.
 
 ## Deploy
 

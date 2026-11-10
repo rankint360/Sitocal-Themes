@@ -1,2 +1,2 @@
-6508e74e7059d8a084cd98f47d366754f232b6b6187b82bd3c60349de5a89905  pestward-fieldworks-netlify-deploy-v1.2.zip
-663cf1e1b6de7e9294ea65e7670a214398649f0832cad532c77270125ab9c809  pestward-fieldworks-source-v1.2.zip
+8684e30190d5f6fe2fa390be92e3a6883232052e57d7f25736b38c4a265f42e0  pestward-fieldworks-netlify-deploy-v1.3.zip
+9549f0f88b439ac138f6e9479c28d71bee9e1d6b6fa26d00867fee01db753833  pestward-fieldworks-source-v1.3.zip
