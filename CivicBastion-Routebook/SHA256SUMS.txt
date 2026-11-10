@@ -1,2 +1,2 @@
-24164009f3f3ea557ab205a725e3d42a7c70b6640b4a8b46ba342b57bbf214d3  civicbastion-routebook-netlify-deploy-v1.0.zip
-fd27a03d842b66b9d4581e00f731938df7142fc76db8dfd34e7f48e5438dffc5  civicbastion-routebook-source-v1.0.zip
+ff31479c5e7167cee7f657f17ed00a4da143834c9cff859fd765e36eb4a8dfec  civicbastion-routebook-netlify-deploy-v1.1.zip
+3165d7a65cbb115844fa5038bd7a2df6843bd742532470b8235c6a96f8cc2efa  civicbastion-routebook-source-v1.1.zip

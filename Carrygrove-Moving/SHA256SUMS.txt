@@ -1,2 +1,2 @@
-fc0ac88a1df649435fe33c3bd30f15fdae57083c66171bcc4e23e2b417470ece  carrygrove-moving-netlify-deploy-v1.0.zip
-a9339c09e2af821ae2f0ac2ad82ca44dcbf58fe39cc11f21371064ab475988d2  carrygrove-moving-source-v1.0.zip
+6183837c76244aa9c15e3e5b83039161a7a91472e93fa6586063310a1ca696fc  carrygrove-moving-netlify-deploy-v1.1.zip
+0d144d1aadb766606971136dc392e57b9e9ebe9a07f165507983dcf25297133f  carrygrove-moving-source-v1.1.zip

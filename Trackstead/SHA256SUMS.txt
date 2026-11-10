@@ -1,2 +1,2 @@
-3499a3eb74b1df7ec22962734aacfd00967b4923338b4e2abbb4cb8ad6696a58  trackstead-netlify-deploy-v1.0.zip
-2b406e99d4f9d74ee11ef97dfbc01bb3c8e02032e4543b362d2005c062f1e5f5  trackstead-source-v1.0.zip
+6564b0a6c900f4a0afe5e4b6254d7888a3a9369d5cde822f6f8c926f74861450  trackstead-netlify-deploy-v1.1.zip
+af161ef9a54add8ba3ba7e57467297fecc3d33119833923c8daa106da47b044f  trackstead-source-v1.1.zip

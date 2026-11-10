@@ -1,2 +1,2 @@
-92800dbbbe6857885c410fde6f65b3d22177dfd73e07ecf77bfb6a9896185f81  cascade-junction-fixture-desk-netlify-deploy-v1.0.zip
-a8f1d0822678edba41b44cbe68dfb2db76638e826fdd0f7e74cb8bdc8d5d499e  cascade-junction-fixture-desk-source-v1.0.zip
+ed6d9986b32395ffe2235128ca6c275889af554bf32577486d05c948ee86ae4a  cascade-junction-fixture-desk-netlify-deploy-v1.1.zip
+12dee9a118abd35e34d44b9e01ad6a413da387e572cb4dddc82ac20c2d3679a2  cascade-junction-fixture-desk-source-v1.1.zip
