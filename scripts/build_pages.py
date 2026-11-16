@@ -105,9 +105,14 @@ def theme_card(slug, archive, output):
                   and (output / unquote(urlsplit(path).path).lstrip("/")).is_file()), "")
     image = f'<img src="{html.escape(photo)}" alt="" loading="lazy" decoding="async">' if photo else ""
     label = f'<span class="category">{html.escape(category)}</span>' if category else ""
-    return (f'<li><a class="card" href="/{slug}/"><div class="image">{image}</div>'
-            f'<div class="details"><div>{label}<h2>{html.escape(name)}</h2></div>'
-            '<span class="view" aria-hidden="true">↗</span></div></a></li>')
+    return (f'<li class="card" data-preview="/{slug}/"><div class="image">{image}'
+            '<div class="preview-window"></div><span class="section-number" hidden>01</span></div>'
+            f'<div class="details"><div>{label}<span class="section-name" hidden></span>'
+            f'<h2>{html.escape(name)}</h2></div></div><div class="actions">'
+            '<button type="button" data-full>Full screen</button>'
+            f'<a href="/{slug}/" target="_blank" rel="noopener">Live demo</a>'
+            f'<a class="select" href="https://app.sitocal.com/create-website?theme={slug}">Select</a>'
+            '</div></li>')
 
 
 def build(repo, output, minimum):
@@ -122,6 +127,7 @@ def build(repo, output, minimum):
     template = Path(__file__).resolve().parents[1] / "pages" / "index.html"
     index = template.read_text(encoding="utf-8-sig").replace("<!-- THEME_CARDS -->", cards)
     (output / "index.html").write_text(index, encoding="utf-8")
+    (output / "theme-preview.js").write_bytes(template.with_name("theme-preview.js").read_bytes())
     (output / "_headers").write_text(
         "/*\n  X-Robots-Tag: noindex, nofollow\n  X-Content-Type-Options: nosniff\n  Referrer-Policy: strict-origin-when-cross-origin\n", encoding="utf-8")
     (output / "robots.txt").write_text("User-agent: *\nDisallow: /\n", encoding="utf-8")

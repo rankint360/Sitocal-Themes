@@ -18,7 +18,7 @@
     .intro{padding:clamp(40px,8vw,94px) 0 30px;border-bottom:1px solid var(--line);margin-bottom:24px}
     h1{font:400 clamp(3rem,8vw,6.6rem)/.96 Georgia,serif;letter-spacing:-.065em;margin:0 0 18px}
     .intro p{max-width:45ch;color:var(--muted);margin:0;font-size:1.02rem}
-    .themes{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}
+    .themes{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}
     .themes li{min-width:0}
     .card{display:flex;flex-direction:column;height:100%;overflow:hidden;border:1px solid var(--line);border-radius:18px;background:#fffef8;text-decoration:none;transition:transform .22s ease,box-shadow .22s ease}
     .image{aspect-ratio:2.25;overflow:hidden;background:linear-gradient(135deg,#dce9c7,#a8c2af)}
@@ -31,15 +31,40 @@
     @media(hover:hover){.card:hover{transform:translateY(-3px);box-shadow:0 8px 20px #1c38251a}.card:hover img{transform:scale(1.04)}}
     @media(prefers-reduced-motion:reduce){.card,.image img{transition:none}.card:hover,.card:hover img{transform:none}}
     @media(max-width:620px){.themes{grid-template-columns:1fr}.wrap{width:min(100% - 28px,1120px)}}
+    .card{position:relative}
+    .card.previewing{z-index:1;transform:scale(1.045);box-shadow:0 12px 32px #1c382533}
+    .image{position:relative}
+    .preview-window{position:absolute;inset:0;pointer-events:none;overflow:hidden;opacity:0;transition:opacity .18s ease}
+    .card.previewing .preview-window.ready{opacity:1}
+    .preview-window iframe{display:block;width:1100px;height:700px;border:0;transform-origin:top left;background:white}
+    .section-number{position:absolute;inset:12px auto auto 12px;padding:4px 8px;border-radius:6px;background:#142f27;color:white;font-variant-numeric:tabular-nums}
+    .section-name{display:block;color:var(--muted);font-size:.8rem;margin-bottom:3px}
+    .section-name[hidden]{display:none}
+    .card.previewing .category{display:none}
+    .actions{display:flex;gap:6px;flex-wrap:wrap;padding:0 18px 17px;margin-top:auto}
+    .actions a,.actions button,.preview-dialog button{cursor:pointer;border:1px solid var(--line);border-radius:8px;background:transparent;color:inherit;padding:6px 9px;font:inherit;font-size:.78rem;text-decoration:none}
+    .actions .select{background:var(--ink);color:white;border-color:var(--ink)}
+    .actions :is(a,button):hover{border-color:var(--ink)}
+    .preview-dialog{width:min(96vw,1440px);max-width:none;padding:14px;border:1px solid var(--line);border-radius:16px;color:var(--ink);background:var(--paper)}
+    .preview-dialog::backdrop{background:#10251ddd}
+    .dialog-bar{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:10px}
+    .preview-dialog iframe{display:block;width:100%;height:80vh;border:1px solid var(--line);background:white}
+    @media(max-width:900px) and (min-width:621px){.themes{grid-template-columns:repeat(2,minmax(0,1fr))}}
+    @media(prefers-reduced-motion:reduce){.card.previewing{transform:none}.preview-window{transition:none}}
     footer{margin-top:36px;border-top:1px solid var(--line);padding:22px 0;color:var(--muted);font-size:.85rem}
   </style>
 </head>
 <body>
   <header><div class="wrap"><a class="brand" href="/">Sitocal</a><a class="platform" href="https://sitocal.com/">Visit Sitocal ↗</a></div></header>
   <main class="wrap">
-    <section class="intro"><h1>Theme library</h1><p>Website designs for local service businesses. Choose a theme to explore the live demo.</p></section>
+    <section class="intro"><h1>Theme library</h1><p>Website designs for local service businesses. Hover to explore a homepage, or choose a theme to use in Sitocal.</p></section>
     <ul class="themes" aria-label="Website themes"><!-- THEME_CARDS --></ul>
   </main>
   <footer class="wrap">Sitocal Theme Library</footer>
+  <dialog class="preview-dialog" aria-labelledby="preview-title">
+    <div class="dialog-bar"><strong id="preview-title"></strong><form method="dialog"><button>Close</button></form></div>
+    <iframe title="Full theme preview" sandbox="allow-scripts"></iframe>
+  </dialog>
+  <script src="/theme-preview.js" defer></script>
 </body>
 </html>
