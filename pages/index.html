@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sitocal Theme Library</title>
+  <meta name="description" content="Explore Sitocal website themes for local service businesses.">
+  <style>
+    :root{color-scheme:light;--paper:#f5f3e9;--ink:#142f27;--muted:#4d645b;--line:#d6dfd0;--accent:#dce9c7}
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.55 "DM Sans",system-ui,sans-serif}
+    a{color:inherit}
+    .wrap{width:min(100% - 40px,1120px);margin-inline:auto}
+    header{border-bottom:1px solid var(--line)}
+    header .wrap{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:19px 0}
+    .brand{font-size:1.4rem;font-weight:800;letter-spacing:-.055em;text-decoration:none}
+    .platform{font-size:.85rem;text-underline-offset:4px}
+    .intro{padding:clamp(40px,8vw,94px) 0 30px;border-bottom:1px solid var(--line);margin-bottom:24px}
+    h1{font:400 clamp(3rem,8vw,6.6rem)/.96 Georgia,serif;letter-spacing:-.065em;margin:0 0 18px}
+    .intro p{max-width:45ch;color:var(--muted);margin:0;font-size:1.02rem}
+    .themes{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}
+    .themes li{min-width:0}
+    .card{display:flex;flex-direction:column;height:100%;overflow:hidden;border:1px solid var(--line);border-radius:18px;background:#fffef8;text-decoration:none;transition:transform .22s ease,box-shadow .22s ease}
+    .image{aspect-ratio:2.25;overflow:hidden;background:linear-gradient(135deg,#dce9c7,#a8c2af)}
+    .image img{display:block;width:100%;height:100%;object-fit:cover;transition:transform .3s ease}
+    .details{padding:17px 18px;display:grid;grid-template-columns:1fr auto;gap:12px;align-items:center}
+    .category{display:block;color:var(--muted);font-size:.82rem;margin-bottom:2px}
+    h2{font:400 clamp(1.35rem,3vw,2rem)/1.12 Georgia,serif;margin:0;letter-spacing:-.035em}
+    .view{width:40px;height:40px;border-radius:50%;display:grid;place-items:center;background:var(--accent);font-size:1.15rem}
+    a:focus-visible{outline:3px solid #226744;outline-offset:4px}
+    @media(hover:hover){.card:hover{transform:translateY(-3px);box-shadow:0 8px 20px #1c38251a}.card:hover img{transform:scale(1.04)}}
+    @media(prefers-reduced-motion:reduce){.card,.image img{transition:none}.card:hover,.card:hover img{transform:none}}
+    @media(max-width:620px){.themes{grid-template-columns:1fr}.wrap{width:min(100% - 28px,1120px)}}
+    footer{margin-top:36px;border-top:1px solid var(--line);padding:22px 0;color:var(--muted);font-size:.85rem}
+  </style>
+</head>
+<body>
+  <header><div class="wrap"><a class="brand" href="/">Sitocal</a><a class="platform" href="https://sitocal.com/">Visit Sitocal ↗</a></div></header>
+  <main class="wrap">
+    <section class="intro"><h1>Theme library</h1><p>Website designs for local service businesses. Choose a theme to explore the live demo.</p></section>
+    <ul class="themes" aria-label="Website themes"><!-- THEME_CARDS --></ul>
+  </main>
+  <footer class="wrap">Sitocal Theme Library</footer>
+</body>
+</html>

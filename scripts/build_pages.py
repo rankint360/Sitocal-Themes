@@ -2,6 +2,8 @@
 
 import argparse
 import html
+from html.parser import HTMLParser
+import json
 import re
 from pathlib import Path, PurePosixPath
 from urllib.parse import unquote, urlsplit
@@ -75,6 +77,39 @@ def validate_assets(output):
     return count
 
 
+class ThemePhotos(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.paths = []
+
+    def handle_starttag(self, tag, attributes):
+        if tag == "img":
+            src = dict(attributes).get("src") or ""
+            if "/assets/pexels/" in src:
+                self.paths.append(src)
+
+
+def theme_card(slug, archive, output):
+    name = slug.replace("-", " ").title()
+    category = ""
+    with ZipFile(archive) as package:
+        metadata_path = next((entry for entry in package.namelist()
+                              if PurePosixPath(entry) == PurePosixPath("theme.json")), None)
+        if metadata_path:
+            metadata = json.loads(package.read(metadata_path))
+            name = metadata.get("name") or name
+            category = metadata.get("category") or ""
+    parser = ThemePhotos()
+    parser.feed((output / slug / "index.html").read_text(encoding="utf-8"))
+    photo = next((path for path in parser.paths if path.startswith(f"/{slug}/")
+                  and (output / unquote(urlsplit(path).path).lstrip("/")).is_file()), "")
+    image = f'<img src="{html.escape(photo)}" alt="" loading="lazy" decoding="async">' if photo else ""
+    label = f'<span class="category">{html.escape(category)}</span>' if category else ""
+    return (f'<li><a class="card" href="/{slug}/"><div class="image">{image}</div>'
+            f'<div class="details"><div>{label}<h2>{html.escape(name)}</h2></div>'
+            '<span class="view" aria-hidden="true">↗</span></div></a></li>')
+
+
 def build(repo, output, minimum):
     releases = latest_releases(repo)
     if len(releases) < minimum:
@@ -82,11 +117,11 @@ def build(repo, output, minimum):
     output.mkdir(parents=True)
     for slug, (_, archive) in sorted(releases.items()):
         unpack_theme(archive, slug, output)
-    cards = "".join(f'<li><a href="/{slug}/">{html.escape(slug.replace("-", " ").title())}</a></li>' for slug in sorted(releases))
-    (output / "index.html").write_text(
-        '<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">'
-        "<title>Sitocal theme previews</title><main><h1>Sitocal theme previews</h1>"
-        f"<ul>{cards}</ul></main></html>\n", encoding="utf-8")
+    cards = "\n".join(theme_card(slug, archive, output)
+                      for slug, (_, archive) in sorted(releases.items()))
+    template = Path(__file__).resolve().parents[1] / "pages" / "index.html"
+    index = template.read_text(encoding="utf-8-sig").replace("<!-- THEME_CARDS -->", cards)
+    (output / "index.html").write_text(index, encoding="utf-8")
     (output / "_headers").write_text(
         "/*\n  X-Robots-Tag: noindex, nofollow\n  X-Content-Type-Options: nosniff\n  Referrer-Policy: strict-origin-when-cross-origin\n", encoding="utf-8")
     (output / "robots.txt").write_text("User-agent: *\nDisallow: /\n", encoding="utf-8")

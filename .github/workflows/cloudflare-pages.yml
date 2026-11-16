@@ -6,6 +6,7 @@ on:
     paths:
       - '**/*-netlify-deploy-v*.zip'
       - 'scripts/build_pages.py'
+      - 'pages/index.html'
       - '.github/workflows/cloudflare-pages.yml'
   workflow_dispatch:
 
