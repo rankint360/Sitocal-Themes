@@ -1,0 +1,5 @@
+# Terraline sewer theme releases
+
+2026-11-17. Added Terraline Sewer (faithful renamed reference) and Terraline Fieldworks (olive/limestone editorial variation) to both builder pickers, increasing the catalog to 31. Both retain all 194 reference pages, local fonts, diagrams, mockup screenshots and disconnected demo phone actions. Trusted library ZIP parsing now permits up to 512 entries; general archive limits are unchanged. Saved copy persists in draft previews and exported ZIPs. Regression fixtures are split to remain within production request limits. Validation: npm run check, all 112 tests, Chromium builder picker/scrolling checks, desktop/mobile theme screenshots, and a 31-theme Cloudflare build (2077 files). Next: verify automatic Cloudflare deployment and platform deployment, then refresh both galleries.
+
+Deployment ZIPs are assembled automatically by the existing GitHub Actions workflow. Sources, preview artwork, setup guides and two variation prompts per theme are in TerralineSewer/ and TerralineFieldworks/.

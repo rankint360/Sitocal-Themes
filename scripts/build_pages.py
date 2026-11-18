@@ -101,7 +101,7 @@ def theme_card(slug, archive, output):
             category = metadata.get("category") or ""
     parser = ThemePhotos()
     parser.feed((output / slug / "index.html").read_text(encoding="utf-8"))
-    photo = next((path for path in parser.paths if path.startswith(f"/{slug}/")
+    photo = f"/{slug}/assets/preview.jpg" if (output / slug / "assets/preview.jpg").is_file() else next((path for path in parser.paths if path.startswith(f"/{slug}/")
                   and (output / unquote(urlsplit(path).path).lstrip("/")).is_file()), "")
     image = f'<img src="{html.escape(photo)}" alt="" loading="lazy" decoding="async">' if photo else ""
     label = f'<span class="category">{html.escape(category)}</span>' if category else ""
