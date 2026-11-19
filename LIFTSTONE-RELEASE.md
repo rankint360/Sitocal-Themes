@@ -1,0 +1,5 @@
+# Liftstone garage door themes
+
+2026-11-18. Added Liftstone Doors (renamed static reference clone) and Liftstone Workshop (independent graphite/saffron variation). Both preserve the reference's single-page format with local optimized photography, fonts, service/project/location sections, FAQs and disconnected demo actions. Dedicated theme folders include deployment/source ZIPs, desktop/mobile previews, setup guidance and two variation prompts each. Registered both in Customize a Theme and Build from Scratch > Design & Branding, with scrolling screenshots and section metadata; total catalog is 33. Added font/ttf delivery to the existing allowlisted theme asset endpoint so draft previews match local/exported typography. Validation: npm run check and 113 tests passed; focused Liftstone save/reload/draft-preview/ZIP-export/font-MIME regression passed; Chromium confirmed both picker registrations, mobile menus, native FAQs, loaded photos and responsive layouts. Next: verify automatic Cloudflare and platform deployments, then refresh the signed-in builder.
+
+Reference supplied by user: https://garagedoorsrepairyuma.com/
