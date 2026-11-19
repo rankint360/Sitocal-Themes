@@ -1,0 +1,26 @@
+{
+  "commercial-hero": {
+    "id": 37907538,
+    "page": "https://www.pexels.com/photo/industrial-loading-dock-in-sunlight-37907538/",
+    "author": "Matthew Jackson",
+    "license": "https://www.pexels.com/license/"
+  },
+  "commercial-sunrise": {
+    "id": 33041460,
+    "page": "https://www.pexels.com/photo/industrial-warehouse-at-sunrise-33041460/",
+    "author": "Alex Quezada",
+    "license": "https://www.pexels.com/license/"
+  },
+  "commercial-interior": {
+    "id": 16924265,
+    "page": "https://www.pexels.com/photo/interior-of-an-empty-warehouse-16924265/",
+    "author": "Wenxin Dong",
+    "license": "https://www.pexels.com/license/"
+  },
+  "commercial-forklift": {
+    "id": 11666903,
+    "page": "https://www.pexels.com/photo/warehouse-and-forklift-11666903/",
+    "author": "Mathias Reding",
+    "license": "https://www.pexels.com/license/"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "residential-hero": {
+    "id": 8134845,
+    "page": "https://www.pexels.com/photo/a-beautiful-house-with-garage-near-the-yard-8134845/",
+    "author": "Max Vakhtbovych",
+    "license": "https://www.pexels.com/license/"
+  },
+  "residential-brick": {
+    "id": 20548104,
+    "page": "https://www.pexels.com/photo/garage-doors-in-house-20548104/",
+    "author": "Alexander F Ungerer",
+    "license": "https://www.pexels.com/license/"
+  },
+  "residential-driveway": {
+    "id": 15267098,
+    "page": "https://www.pexels.com/photo/pavement-to-house-and-garage-doors-15267098/",
+    "author": "David Guerrero",
+    "license": "https://www.pexels.com/license/"
+  },
+  "residential-suburban": {
+    "id": 4832506,
+    "page": "https://www.pexels.com/photo/clear-sky-over-house-4832506/",
+    "author": "Curtis Adams",
+    "license": "https://www.pexels.com/license/"
+  }
+}
